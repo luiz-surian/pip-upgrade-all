@@ -1,0 +1,3 @@
+@echo off
+pip install --upgrade yapf xmltodict XlsxWriter wheel wget urllib3 snowballstemmer six setuptools selenium rope requests pywin32 pywin32-ctypes pytz python-language-server python-jsonrpc-server python-dotenv python-docx python-dateutil PyQt5 pyqt5-tools PyQt5-sip pypiwin32 pynput PyInstaller pyflakes pydocstyle pycodestyle pluggy pip Pillow pefile pdf2image parso pandas openpyxl numpy mccabe macholib lxml jedi jdcal idna future flake8 et-xmlfile comtypes Click chardet certifi beautifulsoup4 autopep8 altgraph pywinauto
+pause
